@@ -1,7 +1,7 @@
 # About Wei Luo
 
 <p>Wei was born in Shanghai, China on November 17th, 2000. He moved to the US with family in 2017. He is currently a Computer Science undergraduate student at New York University. He will graduate in the Summer of 2024. He likes reading, traveling, coding, and 80s music when he has the time. </p>
-<p>As a computer science major, Wei is skilled in coding languages Java, HTML, C and Python. He is systematically learning HTML and C. He speaks Mandarin and English and is learning Russian.</p>
+<p>As a computer science major, Wei is skilled in coding languages Java, HTML, C and Python. He is systematically learning Javascript. He speaks Mandarin and English and is learning Russian.</p>
 
 # Contact
 <p>Telephone Number: (646)-912-1038</p>
